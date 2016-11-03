@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="458f842d-933b-4e2a-98b3-9ee99ec0f19f" name="Default" comment="Classes Java SimpleStack">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dcll/hhoa/ISimpleStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dcll/hhoa/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dcll/hhoa/SimpleStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/dcll/hhoa/SimpleStackTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MySimpleStack.iws" />
@@ -43,8 +38,8 @@
       <file leaf-file-name="ISimpleStack.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/dcll/hhoa/ISimpleStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3457627" vertical-offset="0" max-vertical-offset="629">
-              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.89322037" vertical-offset="0" max-vertical-offset="629">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -600,7 +595,7 @@
       <workItem from="1476952501489" duration="270000" />
       <workItem from="1476952911515" duration="60000" />
       <workItem from="1476952972551" duration="4690000" />
-      <workItem from="1478163789733" duration="5096000" />
+      <workItem from="1478163789733" duration="5194000" />
     </task>
     <task id="LOCAL-00001" summary="File">
       <created>1476956854413</created>
@@ -610,11 +605,15 @@
       <created>1478164461610</created>
       <updated>1478164461610</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Classes Java SimpleStack">
+      <created>1478168907240</created>
+      <updated>1478168907240</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10255000" />
+    <option name="totallyTimeSpent" value="10353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -778,8 +777,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dcll/hhoa/ISimpleStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3457627" vertical-offset="0" max-vertical-offset="629">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.89322037" vertical-offset="0" max-vertical-offset="629">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
