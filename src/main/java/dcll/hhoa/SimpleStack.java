@@ -6,6 +6,8 @@ import java.util.EmptyStackException;
 /**
  * Created by 21107237 on 03/11/2016.
  */
+
+/* Exigence no 1 */
 public class SimpleStack implements ISimpleStack {
     private int n;          // size of the stack
     private Node first;     // top of stack
